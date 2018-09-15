@@ -10,8 +10,8 @@
   "author": "Bryan Wood",
   "license": "MIT",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/itanex/seminar-01.git"
+    "type": "git",
+    "url": "https://github.com/itanex/seminar-01.git"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
